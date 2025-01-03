@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660976079554",
+    "project_id": "foodify-restaurant",
+    "storage_bucket": "foodify-restaurant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660976079554:android:d4cd10a93444f2e4b1615b",
+        "android_client_info": {
+          "package_name": "com.food.factory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660976079554-hpe5qr2lqur4mfip48hho7mhk2k8o3q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.factory",
+            "certificate_hash": "6ed1a9d460c86ef148d646b3455b64a3b828380a"
+          }
+        },
+        {
+          "client_id": "660976079554-hpe5qr2lqur4mfip48hho7mhk2k8o3q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGN9-cvUSADMnSFNeIKPn0JvwxZdQkL0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660976079554-hpe5qr2lqur4mfip48hho7mhk2k8o3q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
