@@ -1,41 +1,42 @@
 {
   "project_info": {
-    "project_number": "660976079554",
-    "project_id": "foodify-restaurant",
-    "storage_bucket": "foodify-restaurant.firebasestorage.app"
+    "project_number": "57678932276",
+    "firebase_url": "https://foodify-restaurant-31318-default-rtdb.firebaseio.com",
+    "project_id": "foodify-restaurant-31318",
+    "storage_bucket": "foodify-restaurant-31318.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:660976079554:android:d4cd10a93444f2e4b1615b",
+        "mobilesdk_app_id": "1:57678932276:android:8be471f6e6c37a2d601d61",
         "android_client_info": {
           "package_name": "com.food.factory"
         }
       },
       "oauth_client": [
         {
-          "client_id": "660976079554-hpe5qr2lqur4mfip48hho7mhk2k8o3q8.apps.googleusercontent.com",
+          "client_id": "57678932276-a4ijmfh894lb600qprpjeshdeejgino5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.food.factory",
-            "certificate_hash": "6ed1a9d460c86ef148d646b3455b64a3b828380a"
+            "certificate_hash": "ad3d115a8cc1b7c395b0aee4a785ad3fe805bfef"
           }
         },
         {
-          "client_id": "660976079554-hpe5qr2lqur4mfip48hho7mhk2k8o3q8.apps.googleusercontent.com",
+          "client_id": "57678932276-m3a2qn47cbpdkqi0ks6b4vcjqpj2in6u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAGN9-cvUSADMnSFNeIKPn0JvwxZdQkL0M"
+          "current_key": "AIzaSyBWaZMOJcTj4VqwOKa7lFS2E751q11Koes"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "660976079554-hpe5qr2lqur4mfip48hho7mhk2k8o3q8.apps.googleusercontent.com",
+              "client_id": "57678932276-m3a2qn47cbpdkqi0ks6b4vcjqpj2in6u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -153,7 +153,6 @@
             android:value="rzp_test_IEc8qM6Dl35sYD" />
 
     </application>
-    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.RECEIVE_SMS" />
     <uses-permission android:name="android.permission.READ_SMS" />
 
